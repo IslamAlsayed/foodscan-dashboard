@@ -11,8 +11,8 @@ Welcome to the Food Order Management System! This project is a comprehensive con
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/IslamAlsayed/foodscan_dashboard.git
-cd foodscan_dashboard
+git clone https://github.com/IslamAlsayed/foodscan-dashboard.git
+cd foodscan-dashboard
 ```
 
 ### 2. Install Dependencies
